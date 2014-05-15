@@ -1,6 +1,16 @@
 app: "Mockup Website"
 template: "default"
 title: "This is a mockup website test generated from github."
+nav: 
+  - home
+  - about
+  - contact
+  - more:
+    - first
+    - second
+    - third
+    - forth
+
 pages:
   - 
     name: "Home"
