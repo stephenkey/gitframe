@@ -1,0 +1,14 @@
+app: "Mockup Website"
+template: "default"
+title: "This is a mockup website test generated from github."
+pages:
+  - 
+    name: "Home"
+    sections:
+      - banner
+      - 
+  -
+    name: "About"
+    sections:
+      - banner
+      - 
