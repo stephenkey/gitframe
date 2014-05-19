@@ -2,15 +2,12 @@ app: "Mockup Website"
 template: "default"
 title: "This is a mockup website test generated from github."
 nav: 
-  - home
-  - about
-  - contact
-  - more:
-    - first
-    - second
-    - third
-    - forth
-
+  home: 'Home'
+  about: 'About Us'
+  contact: 'Contact Us'
+  more: 
+    second: "Second Link"
+    third: "Third Link"
 pages:
   - 
     name: "Home"
