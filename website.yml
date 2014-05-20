@@ -4,7 +4,7 @@ title: "This is a mockup website test generated from github."
 nav: 
   home: 'Home'
   about: 'About Us'
-  contact: 'Contact Us'
+  archive: 'Archive'
   more: 
     second: "Second Link"
     third: "Third Link"
