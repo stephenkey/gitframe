@@ -12,10 +12,23 @@ pages:
   - 
     name: "Home"
     sections:
-      - banner
-      - 
+      - jumbotron
+      - thumbnails_content
   -
     name: "About"
     sections:
-      - banner
-      - 
+      - notice
+      - h1
+      - text
+      - text
+      - text
+      - blockquote
+      - h3
+      - video
+  -
+    name: "Archive"
+    sections:
+      - h1
+      - image
+      - thumbnails
+      - pagination
