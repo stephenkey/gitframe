@@ -12,7 +12,7 @@ pages:
   - 
     name: "Home"
     sections:
-      - jumbotron
+      - jumbotron_full
       - thumbnails_content
   -
     name: "About"
