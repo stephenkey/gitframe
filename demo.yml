@@ -1,0 +1,35 @@
+app: "Demo Website"
+template: "default"
+comments: true
+title: "This is a demo website generated from GitFrame."
+nav: 
+  home: 'Home'
+  about: 'About Us'
+  archive: 'Archive'
+  more: 
+    second: "Second Link"
+    third: "Third Link"
+pages:
+  - 
+    name: "Home"
+    sections:
+      - jumbotron_full
+      - thumbnails_content
+  -
+    name: "About"
+    sections:
+      - notice
+      - h1
+      - text
+      - text
+      - text
+      - blockquote
+      - h3
+      - video
+  -
+    name: "Archive"
+    sections:
+      - h1
+      - image
+      - thumbnails
+      - pagination
