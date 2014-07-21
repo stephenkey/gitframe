@@ -1,0 +1,230 @@
+name: "Demo Website"
+layout: "default"
+comments: true
+title: "This is a demo website generated from GitFrame."
+theme: tech
+css: 'http://cdn.example.com/assets/style.css'
+nav: 
+  home: 'Home'
+  about: 'About Us'
+  archive: 'Archive'
+  more: 
+    second: "Second Link"
+    third: "Third Link"
+footer: 
+  about: 'About'
+  archive: 'Archive'
+  archive: 'Contact'
+
+pages:
+  - 
+    name: "Navagations"
+    layout: "default"
+    sections:
+      nav_bar:
+        home: 'Home'
+        about: 'About Us'
+        archive: 'Archive'
+        more: 
+          second: "Second Link"
+          third: "Third Link"
+      nav_tabs:
+        home: 'Home'
+        about: 'About Us'
+        archive: 'Archive'
+        more: 
+          second: "Second Link"
+          third: "Third Link"
+      nav_pills:
+        home: 'Home'
+        about: 'About Us'
+        archive: 'Archive'
+        more: 
+          second: "Second Link"
+          third: "Third Link"
+
+  - 
+    name: "Banners"
+    layout: "default"
+    sections:
+      banner:
+        text: 'Description text...'
+      banner_subscribe:
+        text: 'Description text...'
+      banner_alert:
+        text: 'Description text...'
+      banner_notice:
+        text: 'Description text...'
+      banner_success:
+        text: 'Description text...'
+      banner_social:
+        link_facebook: 'http://www.example.com/page-link'
+        link_twitter: 'http://www.example.com/page-link'
+        link_google: 'http://www.example.com/page-link'
+      banner_progress:
+        completed: 60
+      banner_search:
+        link: 'http://www.example.com/page-link'
+      banner_pagination:
+        link: 'http://www.example.com/page-link'
+      banner_pager:
+        link_last: 'http://www.example.com/page-link'
+        link_next: 'http://www.example.com/page-link'
+
+  - 
+    name: "Features"
+    layout: "default"
+    sections:
+      feature_left:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+      feature_center:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+      feature_right:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+      feature_image_left:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+      feature_image_center:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+      feature_image_right:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+      feature_mobile_left:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+      feature_mobile_right:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+      feature_tablet_center:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+
+  - 
+    name: "Sections"
+    layout: "default"
+    sections:
+      section_left:
+        title: 'Example Title'
+        text: 'Description text...'
+      section_center:
+        title: 'Example Title'
+        text: 'Description text...'
+      section_right:
+        title: 'Example Title'
+        text: 'Description text...'
+      section_text:
+        text: 'Description text...'
+      section_text_large:
+        text: 'Description text...'
+      section_image:
+        image: 'http://www.example.com/image.png'
+      section_image_left:
+        title: 'Example Title'
+        text: 'Description text...'
+        image: 'http://www.example.com/image.png'
+      section_image_right:
+        title: 'Example Title'
+        text: 'Description text...'
+        image: 'http://www.example.com/image.png'
+      section_youtube:
+        video: 'https://www.youtube.com/embed/XQu8TTBmGhA'
+      section_youtube_left:
+        title: 'Example Title'
+        text: 'Description text...'
+        video: 'https://www.youtube.com/embed/XQu8TTBmGhA'
+      section_youtube_right:
+        title: 'Example Title'
+        text: 'Description text...'
+        video: 'https://www.youtube.com/embed/XQu8TTBmGhA'
+      section_register:
+        title: 'Example Title'
+        link: 'http://www.example.com/page-link'
+      section_register:
+        title: 'Example Title'
+        link: 'http://www.example.com/page-link'
+      section_register_left:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+      section_register_right:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+      section_login:
+        title: 'Example Title'
+        link: 'http://www.example.com/page-link'
+      section_login_left:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+      section_login_right:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+      section_contact:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
+        latitude: '40.712784'
+        longitude: '-74.005941'
+      section_pricing:
+        link_basic: 'http://www.example.com/page-link'
+        link_standard: 'http://www.example.com/page-link'
+        link_advanced: 'http://www.example.com/page-link'
+      section_slider:
+        image_one: 'http://www.example.com/image.png'
+        image_two: 'http://www.example.com/image.png'
+        image_three: 'http://www.example.com/image.png'
+      section_search:
+        link: 'http://www.example.com/page-link'
+      section_results_tiled:
+        -
+          link: 'http://www.example.com/page-link'
+          image: 'http://www.example.com/image.png'
+          title: 'Example Title'
+          text: 'Description text...'
+
+      section_results_list:
+        -
+          link: 'http://www.example.com/page-link'
+          image: 'http://www.example.com/image.png'
+          title: 'Example Title'
+          text: 'Description text...'
+      section_comments: true
+      section_product_left:
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+        title: 'Example Title'
+        price: '$20'
+        text: 'Description text...'
+      section_product_right:
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+        title: 'Example Title'
+        price: '$20'
+        text: 'Description text...'
+      section_cart:
+        link_continue: 'http://www.example.com/page-link'
+        link_checkout: 'http://www.example.com/page-link'
+      section_checkout:
+        title: 'Example Title'
+        link: 'http://www.example.com/page-link'
