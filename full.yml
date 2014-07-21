@@ -1,5 +1,5 @@
-name: "Demo Website"
-layout: "default"
+name: "Full Demo Website"
+layout: "basic"
 comments: true
 title: "This is a demo website generated from GitFrame."
 theme: tech
