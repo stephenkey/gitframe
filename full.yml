@@ -1,7 +1,7 @@
-name: "Full Demo Website"
+name: "Demo Website"
 layout: "basic"
-comments: true
-title: "This is a demo website generated from GitFrame."
+toolbar: true
+description: "This is a demo website generated from GitFrame."
 theme: tech
 css: 'http://cdn.example.com/assets/style.css'
 nav: 
@@ -19,7 +19,7 @@ footer:
 pages:
   - 
     name: "Navagations"
-    layout: "default"
+    layout: "basic"
     sections:
       nav_bar:
         home: 'Home'
@@ -45,7 +45,7 @@ pages:
 
   - 
     name: "Banners"
-    layout: "default"
+    layout: "basic"
     sections:
       banner:
         text: 'Description text...'
@@ -73,7 +73,7 @@ pages:
 
   - 
     name: "Features"
-    layout: "default"
+    layout: "basic"
     sections:
       feature_left:
         title: 'Example Title'
@@ -120,7 +120,7 @@ pages:
 
   - 
     name: "Sections"
-    layout: "default"
+    layout: "basic"
     sections:
       section_left:
         title: 'Example Title'
@@ -179,7 +179,7 @@ pages:
       section_login_right:
         title: 'Example Title'
         text: 'Description text...'
-        link: 'http://www.example.com/page-link'
+        link: 'http://www.example.com/page-link'    
       section_contact:
         title: 'Example Title'
         text: 'Description text...'
@@ -209,6 +209,14 @@ pages:
           image: 'http://www.example.com/image.png'
           title: 'Example Title'
           text: 'Description text...'
+          
+      section_article_preview:
+        -
+          link: 'http://www.example.com/page-link'
+          image: 'http://www.example.com/image.png'
+          title: 'Example Title'
+          text: 'Description text...'
+
       section_comments: true
       section_product_left:
         link: 'http://www.example.com/page-link'

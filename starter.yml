@@ -1,4 +1,4 @@
-name: "Starter Website"
+name: "Demo Website"
 nav: 
   archive: 'Archive'
   more: 
@@ -12,13 +12,17 @@ pages:
   - 
     name: "Starter Page"
     sections:
-      feature_left: true
+      feature_left:
+        title: 'Example Title'
+        text: 'Description text...'
+        link: 'http://www.example.com/page-link'
       section_text_large: true
       section_article_preview: true
   - 
     name: "Starter Page"
     sections:
-      banner_social: true
       section_product_right: true
       section_comments: true
+      banner_social: true
+
 
