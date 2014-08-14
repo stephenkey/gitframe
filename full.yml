@@ -217,7 +217,7 @@ pages:
           title: 'Example Title'
           text: 'Description text...'
 
-      section_comments: true
+      section_comments: default
       section_product_left:
         link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'

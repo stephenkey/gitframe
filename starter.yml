@@ -17,13 +17,11 @@ pages:
         title: 'Example Title'
         text: 'Description text...'
         link: 'http://www.example.com/page-link'
-      section_text_large: true
-      section_article_preview: true
+      section_text_large: default
+      section_article_preview: default
   - 
     name: "Second Page"
     sections:
-      section_product_right: true
-      section_comments: true
-      banner_social: true
-
-
+      section_product_right: default
+      section_comments: default
+      banner_social: default
