@@ -19,7 +19,7 @@ pages:
       section_text_large: true
       section_article_preview: true
   - 
-    name: "Starter Page"
+    name: "Second Page"
     sections:
       section_product_right: true
       section_comments: true
