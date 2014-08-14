@@ -1,4 +1,5 @@
 name: "Starter Demo Website"
+description: "This is a starter demo website generated from GitFrame."
 nav: 
   archive: 'Archive'
   more: 
