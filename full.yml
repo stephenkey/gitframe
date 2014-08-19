@@ -47,8 +47,6 @@ pages:
     name: "Banners"
     layout: "basic"
     sections:
-      banner:
-        text: 'Description text...'
       banner_subscribe:
         text: 'Description text...'
       banner_alert:
@@ -75,44 +73,21 @@ pages:
     name: "Features"
     layout: "basic"
     sections:
-      feature_left:
+      feature_hero:
         title: 'Example Title'
         text: 'Description text...'
         link: 'http://www.example.com/page-link'
-      feature_center:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
-      feature_right:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
-      feature_image_left:
+      feature_image:
         title: 'Example Title'
         text: 'Description text...'
         link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
-      feature_image_center:
+      feature_mobile:
         title: 'Example Title'
         text: 'Description text...'
         link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
-      feature_image_right:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
-        image: 'http://www.example.com/image.png'
-      feature_mobile_left:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
-        image: 'http://www.example.com/image.png'
-      feature_mobile_right:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
-        image: 'http://www.example.com/image.png'
-      feature_tablet_center:
+      feature_tablet:
         title: 'Example Title'
         text: 'Description text...'
         link: 'http://www.example.com/page-link'
@@ -122,63 +97,19 @@ pages:
     name: "Sections"
     layout: "basic"
     sections:
-      section_left:
-        title: 'Example Title'
-        text: 'Description text...'
-      section_center:
-        title: 'Example Title'
-        text: 'Description text...'
-      section_right:
-        title: 'Example Title'
-        text: 'Description text...'
       section_text:
         text: 'Description text...'
-      section_text_large:
+      section_title:
         text: 'Description text...'
       section_image:
         image: 'http://www.example.com/image.png'
-      section_image_left:
-        title: 'Example Title'
-        text: 'Description text...'
-        image: 'http://www.example.com/image.png'
-      section_image_right:
-        title: 'Example Title'
-        text: 'Description text...'
-        image: 'http://www.example.com/image.png'
-      section_youtube:
-        video: 'https://www.youtube.com/embed/XQu8TTBmGhA'
-      section_youtube_left:
-        title: 'Example Title'
-        text: 'Description text...'
-        video: 'https://www.youtube.com/embed/XQu8TTBmGhA'
-      section_youtube_right:
-        title: 'Example Title'
-        text: 'Description text...'
+      section_video:
         video: 'https://www.youtube.com/embed/XQu8TTBmGhA'
       section_register:
         title: 'Example Title'
-        link: 'http://www.example.com/page-link'
-      section_register:
-        title: 'Example Title'
-        link: 'http://www.example.com/page-link'
-      section_register_left:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
-      section_register_right:
-        title: 'Example Title'
-        text: 'Description text...'
         link: 'http://www.example.com/page-link'
       section_login:
         title: 'Example Title'
-        link: 'http://www.example.com/page-link'
-      section_login_left:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
-      section_login_right:
-        title: 'Example Title'
-        text: 'Description text...'
         link: 'http://www.example.com/page-link'    
       section_contact:
         title: 'Example Title'
@@ -196,35 +127,23 @@ pages:
         image_three: 'http://www.example.com/image.png'
       section_search:
         link: 'http://www.example.com/page-link'
-      section_results_tiled:
-        -
-          link: 'http://www.example.com/page-link'
-          image: 'http://www.example.com/image.png'
-          title: 'Example Title'
-          text: 'Description text...'
-
-      section_results_list:
-        -
-          link: 'http://www.example.com/page-link'
-          image: 'http://www.example.com/image.png'
-          title: 'Example Title'
-          text: 'Description text...'
-          
-      section_article_preview:
-        -
-          link: 'http://www.example.com/page-link'
-          image: 'http://www.example.com/image.png'
-          title: 'Example Title'
-          text: 'Description text...'
-
-      section_comments: default
-      section_product_left:
+      section_tile:
         link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
         title: 'Example Title'
-        price: '$20'
         text: 'Description text...'
-      section_product_right:
+      section_result:
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+        title: 'Example Title'
+        text: 'Description text...'
+      section_article_preview:
+        link: 'http://www.example.com/page-link'
+        image: 'http://www.example.com/image.png'
+        title: 'Example Title'
+        text: 'Description text...'
+      section_comments: default
+      section_product:
         link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
         title: 'Example Title'
