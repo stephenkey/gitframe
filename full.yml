@@ -14,7 +14,7 @@ nav:
 footer: 
   about: 'About'
   archive: 'Archive'
-  archive: 'Contact'
+  contact: 'Contact'
 
 pages:
   - 
@@ -137,7 +137,7 @@ pages:
         image: 'http://www.example.com/image.png'
         title: 'Example Title'
         text: 'Description text...'
-      section_article_preview:
+      section_article:
         link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
         title: 'Example Title'
