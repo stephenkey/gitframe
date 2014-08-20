@@ -18,7 +18,7 @@ footer:
 
 pages:
   - 
-    name: "Navagations"
+    name: "Navigations"
     layout: "basic"
     sections:
       nav_bar:
@@ -47,6 +47,9 @@ pages:
     name: "Banners"
     layout: "basic"
     sections:
+      banner_subscribe_6:
+        text: 'Description text...'
+      banner_social_6: default
       banner_subscribe:
         text: 'Description text...'
       banner_alert:
