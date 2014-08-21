@@ -3,7 +3,7 @@ layout: "basic"
 toolbar: true
 description: "This is a demo website generated from GitFrame."
 theme: tech
-css: 'http://cdn.example.com/assets/style.css'
+css: 'http://lvh.me/assets/basic.css'
 nav: 
   home: 'Home'
   about: 'About Us'
@@ -53,15 +53,18 @@ pages:
       banner_subscribe:
         text: 'Description text...'
       banner_alert:
+        title: 'Hey Title'
         text: 'Description text...'
       banner_notice:
+        title: 'Hey Title'
         text: 'Description text...'
       banner_success:
+        title: 'Hey Title'
         text: 'Description text...'
       banner_social:
-        link_facebook: 'http://www.example.com/page-link'
-        link_twitter: 'http://www.example.com/page-link'
-        link_google: 'http://www.example.com/page-link'
+        facebook: 'http://www.example.com/page-link'
+        twitter: 'http://www.example.com/page-link'
+        google: 'http://www.example.com/page-link'
       banner_progress:
         completed: 60
       banner_search:
@@ -81,19 +84,10 @@ pages:
         text: 'Description text...'
         link: 'http://www.example.com/page-link'
       feature_image:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
       feature_mobile:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
       feature_tablet:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
 
   - 
@@ -115,15 +109,10 @@ pages:
         title: 'Example Title'
         link: 'http://www.example.com/page-link'    
       section_contact:
-        title: 'Example Title'
-        text: 'Description text...'
         link: 'http://www.example.com/page-link'
-        latitude: '40.712784'
-        longitude: '-74.005941'
       section_pricing:
-        link_basic: 'http://www.example.com/page-link'
-        link_standard: 'http://www.example.com/page-link'
-        link_advanced: 'http://www.example.com/page-link'
+        title: 'Example Title'
+        link: 'http://www.example.com/page-link'
       section_slider:
         image_one: 'http://www.example.com/image.png'
         image_two: 'http://www.example.com/image.png'
@@ -131,10 +120,7 @@ pages:
       section_search:
         link: 'http://www.example.com/page-link'
       section_tile:
-        link: 'http://www.example.com/page-link'
-        image: 'http://www.example.com/image.png'
         title: 'Example Title'
-        text: 'Description text...'
       section_result:
         link: 'http://www.example.com/page-link'
         image: 'http://www.example.com/image.png'
@@ -148,7 +134,6 @@ pages:
       section_comments: default
       section_product:
         link: 'http://www.example.com/page-link'
-        image: 'http://www.example.com/image.png'
         title: 'Example Title'
         price: '$20'
         text: 'Description text...'
