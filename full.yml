@@ -8,7 +8,7 @@ nav:
   navigations: 'Navs'
   banners: 'Banners'
   features: 'Hero Features'
-  sections: 'All Sections'
+  content: 'All Sections'
 footer: 
   about: 'About'
   archive: 'Archive'
@@ -89,7 +89,7 @@ pages:
         image: 'http://www.example.com/image.png'
 
   - 
-    name: "Sections"
+    name: "Content"
     layout: "basic"
     sections:
       section_text:
