@@ -5,12 +5,10 @@ description: "This is a demo website generated from GitFrame with updated keys."
 theme: tech
 css: 'http://lvh.me/assets/basic.css'
 nav: 
-  home: 'Home'
-  about: 'About Us'
-  archive: 'Archive'
-  more: 
-    second: "Second Link"
-    third: "Third Link"
+  navigations: 'Navs'
+  banners: 'Banners'
+  features: 'Hero Features'
+  sections: 'All Sections'
 footer: 
   about: 'About'
   archive: 'Archive'
