@@ -1,11 +1,11 @@
 name: "Broken Tests"
 description: "Testing the GitFrame framework."
 nav: 
-  first_page: 'First Page'
+  home_page: 'First Page'
   second_page: 'Second'
 pages:
   - 
-    name: "First Page"
+    name: "Home Page"
     sections:
       feature_hero_6: default
       feature_mobile_6: default
