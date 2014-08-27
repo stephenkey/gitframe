@@ -1,5 +1,5 @@
 name: "Broken Tests"
-description: "Testing the GitFrame builder."
+description: "Testing the GitFrame framework."
 nav: 
   first_page: 'First'
   second_page: 'Second'
