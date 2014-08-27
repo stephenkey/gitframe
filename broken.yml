@@ -1,4 +1,5 @@
 name: "Broken Tests"
+description: "Testing the gitframe builder."
 nav: default
 pages:
   - 
