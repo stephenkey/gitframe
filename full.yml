@@ -7,7 +7,7 @@ css: 'http://lvh.me/assets/basic.css'
 nav: 
   navigations: 'Navs'
   banners: 'Banners'
-  features: 'Hero Features'
+  features: 'Heros'
   content: 'All Sections'
 footer: 
   about: 'About'
