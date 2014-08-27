@@ -3,7 +3,7 @@ layout: "basic"
 toolbar: true
 description: "This is a demo website generated from GitFrame with updated keys."
 theme: tech
-css: 'http://lvh.me/assets/basic.css'
+css: 'http://lvh.me/assets/main.css'
 nav: 
   navigations: 'Navs'
   banners: 'Banners'
