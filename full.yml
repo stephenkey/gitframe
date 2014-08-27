@@ -1,0 +1,30 @@
+name: "Full Demo Mockup"
+layout: "basic"
+toolbar: true
+description: "This is a demo website generated from GitFrame."
+theme: tech
+css: 'http://lvh.me/assets/basic.css'
+nav: 
+  home: 'Home'
+  about: 'About Us'
+  archive: 'Archive'
+  more: 
+    second: "Second Link"
+    third: "Third Link"
+footer: 
+  about: 'About'
+  archive: 'Archive'
+  contact: 'Contact'
+pages:
+  - 
+    name: "First Page"
+    sections: &sections
+      feature_hero_6: default
+      feature_mobile_6: default
+      section_article_4: default
+      section_article_4: default
+      section_article_4: default
+  - 
+    name: "Second Page"
+    sections:
+      <<: *sections
