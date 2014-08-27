@@ -1,7 +1,7 @@
 name: "Broken Tests"
 description: "Testing the GitFrame framework."
 nav: 
-  first_page: 'First'
+  first_page: 'First Page'
   second_page: 'Second'
 pages:
   - 
