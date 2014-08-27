@@ -1,6 +1,8 @@
 name: "Broken Tests"
 description: "Testing the gitframe builder."
-nav: default
+nav: 
+  first_page: 'First'
+  second_page: 'Second'
 pages:
   - 
     name: "First Page"
