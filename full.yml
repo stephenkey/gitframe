@@ -28,3 +28,92 @@ pages:
     name: "Second Page"
     sections:
       <<: *sections
+  - 
+    name: "Third Page"
+    sections:
+      section_alert:
+        title: 'There was a problem!'
+        text: 'Please take a moment and review your input and try again.'
+      section_article:
+        link: '/test/link'
+        image: ''
+        title: 'New Article'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+      section_cart:
+        link_continue: ''
+        link_checkout: ''
+      section_checkout:
+        title: ''
+      section_comments: default
+      section_contact:
+        link: ''
+        btn: 'Send Email'
+      section_hero:
+        title: 'Welcome To Our Site'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+        link: ''
+        btn: 'Read More'
+      section_image:
+        image: 'https://s3.amazonaws.com/gitframe/default-rectangle.png'
+      section_input:
+        placeholder: 'john.doe@example.com'
+      section_login: 
+        link: '#'
+      section_mobile:
+        image: 'https://s3.amazonaws.com/gitframe/default-portrait.png'
+      section_notice:
+        title: 'There was a problem!'
+        text: 'Please take a moment and review your input and try again.'
+      section_pager:
+        link_last: '#'
+        link_next: '#'
+      section_pagination: default
+      section_pricing: 
+        title: 'Basic Plan'
+        link: '#'
+      section_product:
+        title: 'Air Jordans'
+        price: '$25'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+        link: '#'
+      section_progress:
+        completed: 70
+      section_register:
+        link: '#'
+      section_result:
+        link: '#'
+        image: 'https://s3.amazonaws.com/gitframe/default-square-small.png'
+        title: 'A New Search Result'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+      section_search:
+        link: '#'
+        btn: 'Find'
+      section_slider: 
+        image_one: 'https://s3.amazonaws.com/gitframe/default-rectangle.png'
+        image_two: 'https://s3.amazonaws.com/gitframe/default-rectangle.png'
+        image_three: 'https://s3.amazonaws.com/gitframe/default-rectangle.png'
+      section_social:
+        facebook: ''
+        twitter: ''
+        google: ''
+      section_success:
+        title: 'There was a problem!'
+        text: 'Please take a moment and review your input and try again.'
+      section_tablet:
+        image: 'https://s3.amazonaws.com/gitframe/default-tablet-landscape.png'
+      section_text:
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+      section_tile:
+        title: 'Tiled Result'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+        link: '#'
+        image: 'https://s3.amazonaws.com/gitframe/default-rectangle.png'
+      section_title:
+        title: 'Test Example Title'
+      section_video:
+        video: '//www.youtube.com/embed/XQu8TTBmGhA'
+
+
+
+
+
