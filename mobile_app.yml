@@ -1,0 +1,46 @@
+name: "Mobile App"
+toolbar: false
+description: "Example of a mobile application landing page."
+css: 'http://lvh.me/assets/basic.css'
+pages:
+  - 
+    name: "First Page"
+    sections:
+      feature_hero_full:
+        title: 'MobileApp'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+        link: '#'
+        btn: 'Take A Tour'
+      section_hero_6:
+        title: 'Awesome Features'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+        link: '#'
+        btn: 'Download MobileApp'
+      section_mobile_6:
+        image: 'https://s3.amazonaws.com/gitframe/default-portrait.png'
+      section_mobile_6:
+        image: 'https://s3.amazonaws.com/gitframe/default-portrait.png'
+      section_hero_6:
+        title: 'Connect With Friends'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+        link: '#'
+        btn: 'Get Started'
+      section_title:
+        title: 'Our Customers Already Love It'
+      section_article_4:
+        image: ''
+        title: 'Acme Company'
+        text: '"Lorem ipsum dolor sit amet, consectetuer adipiscing elit."'
+      section_article_4:
+        image: ''
+        title: 'Acme Company'
+        text: '"Lorem ipsum dolor sit amet, consectetuer adipiscing elit."'
+      section_article_4:
+        image: ''
+        title: 'Acme Company'
+        text: '"Lorem ipsum dolor sit amet, consectetuer adipiscing elit."'
+      section_title_full:
+        title: 'Sign up to find out more.'
+      section_search_full:
+        btn: 'Sign Up'
+      banner_social_full: default
