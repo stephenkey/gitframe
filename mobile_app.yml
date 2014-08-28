@@ -25,7 +25,7 @@ pages:
         text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
         link: '#'
         btn: 'Get Started'
-      section_title:
+      banner_title:
         title: 'Our Customers Already Love It'
       section_article_4:
         image: ''
@@ -39,8 +39,8 @@ pages:
         image: ''
         title: 'Acme Company'
         text: '"Lorem ipsum dolor sit amet, consectetuer adipiscing elit."'
-      section_title_full:
+      banner_title_full:
         title: 'Sign up to find out more.'
-      section_search_full:
+      banner_search_full:
         btn: 'Sign Up'
       banner_social_full: default
