@@ -1,7 +1,7 @@
 name: "Full Demo Mockup"
 layout: "basic"
 toolbar: true
-description: "This is a fuller demo website generated from GitFrame."
+description: "This is a demo website generated from GitFrame."
 theme: tech
 css: 'http://lvh.me/assets/basic.css'
 nav: 
