@@ -1,6 +1,6 @@
 name: "Mobile App"
 toolbar: false
-description: "Example of a mobile application landing page."
+description: "Example of a mobile app landing page."
 css: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/mobile-app.css'
 pages:
   - 
