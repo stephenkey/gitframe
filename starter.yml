@@ -1,27 +1,25 @@
 name: "Starter Mockup"
 description: "This is a starter demo website generated from GitFrame."
 nav: 
-  archive: 'Archive'
-  more: 
-    second: "Second Link"
-    third: "Third Link"
-footer: 
-  archive: 'Archive'
-  contact: 'Contact'
-
+  welcome: 'Home'
+  second_page: 'Second'
 pages:
   - 
-    name: "Starter Page"
+    name: "Welcome"
     sections:
-      feature_left:
-        title: 'Example Title'
-        text: 'Description text...'
-        link: 'http://www.example.com/page-link'
-      section_text_large: default
-      section_article_preview: default
+      section_notice:
+        title: 'Welcome to our site!'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+      feature_hero_6: default
+      feature_mobile_6: default
+      section_article_4: default
+      section_article_4: default
+      section_article_4: default
   - 
     name: "Second Page"
     sections:
-      section_product_right: default
-      section_comments: default
-      banner_social: default
+      feature_hero: default
+      feature_tablet: default
+      section_article_4: default
+      section_article_4: default
+      section_article_4: default
