@@ -11,11 +11,13 @@ pages:
         text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
         link: '#'
         btn: 'Take A Tour'
-      feature_hero_6:
-        title: 'Awesome Features'
-        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
-        link: '#'
-        btn: 'Download MobileApp'
+        
+      banner_title:
+        title: 'Super Awesome Features'
+      feature_mobile_6:
+        image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/bia_calendar.jpg'
+      feature_mobile_6:
+        image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/bia_calendar.jpg'
       feature_mobile_6:
         image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/bia_calendar.jpg'
 
