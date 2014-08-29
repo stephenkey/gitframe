@@ -1,7 +1,7 @@
 name: "Mobile App"
 toolbar: false
 description: "Example of a mobile application landing page."
-css: 'http://lvh.me/assets/examples/mobile-app.css'
+css: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/mobile-app.css'
 pages:
   - 
     name: "First Page"
