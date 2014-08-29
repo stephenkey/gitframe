@@ -11,20 +11,19 @@ pages:
         text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
         link: '#'
         btn: 'Take A Tour'
-      section_hero_6:
+      feature_hero_6:
         title: 'Awesome Features'
-        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
         link: '#'
         btn: 'Download MobileApp'
-      section_mobile_6:
+      feature_mobile_6:
         image: 'https://s3.amazonaws.com/gitframe/default-portrait.png'
-      section_mobile_6:
-        image: 'https://s3.amazonaws.com/gitframe/default-portrait.png'
-      section_hero_6:
-        title: 'Connect With Friends'
-        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
-        link: '#'
-        btn: 'Get Started'
+
+      banner_title_full:
+        title: 'Sign up to find out more.'
+      banner_search_full:
+        btn: 'Sign Up'
+
       banner_title:
         title: 'Our Customers Already Love It'
       section_article_4:
@@ -39,8 +38,5 @@ pages:
         image: ''
         title: 'Acme Company'
         text: '"Lorem ipsum dolor sit amet, consectetuer adipiscing elit."'
-      banner_title_full:
-        title: 'Sign up to find out more.'
-      banner_search_full:
-        btn: 'Sign Up'
+        
       banner_social_full: default
