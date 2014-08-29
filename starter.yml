@@ -1,5 +1,5 @@
 name: "Starter Mockup"
-description: "This is a starter website generated from GitFrame."
+description: "This is a starter website for GitFrame."
 nav: 
   welcome: 'Home'
   second_page: 'Second'
