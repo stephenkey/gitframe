@@ -27,16 +27,16 @@ pages:
       banner_title:
         title: 'Our Customers Already Love It'
       section_article_4:
-        image: ''
-        title: 'Acme Company'
+        image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/customer1.png'
+        title: 'Native Records'
         text: '"Lorem ipsum dolor sit amet, consectetuer adipiscing elit."'
       section_article_4:
-        image: ''
-        title: 'Acme Company'
+        image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/customer2.png'
+        title: 'Rocket Inc'
         text: '"Lorem ipsum dolor sit amet, consectetuer adipiscing elit."'
       section_article_4:
-        image: ''
-        title: 'Acme Company'
+        image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/customer3.png'
+        title: 'Local Pub'
         text: '"Lorem ipsum dolor sit amet, consectetuer adipiscing elit."'
         
-      banner_social_full: default
+      banner_social: default
