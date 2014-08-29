@@ -17,7 +17,7 @@ pages:
         link: '#'
         btn: 'Download MobileApp'
       feature_mobile_6:
-        image: 'https://s3.amazonaws.com/gitframe/default-portrait.png'
+        image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/bia_calendar.jpg'
 
       banner_title_full:
         title: 'Sign up to find out more.'
