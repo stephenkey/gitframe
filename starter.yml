@@ -9,7 +9,7 @@ pages:
     sections:
       section_notice:
         title: 'Welcome to our site!'
-        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+        text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolo sit amet, consectetuer adipiscing elit.'
       feature_hero_6: default
       feature_mobile_6: default
       section_article_4: default
