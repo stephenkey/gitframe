@@ -4,39 +4,33 @@ toolbar: true
 description: "This is a demo website generated from GitFrame."
 theme: tech
 css: 'http://lvh.me/assets/basic.css'
-nav: 
-  home: 'Home'
-  about: 'About Us'
-  archive: 'Archive'
-  more: 
-    second: "Second Link"
-    third: "Third Link"
-footer: 
-  about: 'About'
-  archive: 'Archive'
-  contact: 'Contact'
+nav: default
 pages:
   - 
-    name: "First Page"
-    sections: &sections
-      feature_hero_6: default
-      feature_mobile_6: default
-      section_article_4: default
-      section_article_4: default
-      section_article_4: default
-  - 
-    name: "Second Page"
+    name: "Navigations"
     sections:
-      <<: *sections
+      nav_bar:
+        welcome: 'Welcome To Acme'
+        second_page: 'Our Second Page'
+        more: 
+          third: "Third Link"
+          fourth: "Fourth Link"
+      nav_pills:
+        welcome: 'Welcome To Acme'
+        second_page: 'Our Second Page'
+      nav_tabs:
+        welcome: 'Welcome To Acme'
+        second_page: 'Our Second Page'
+
   - 
-    name: "Third Page"
+    name: "Content"
     sections:
-      section_alert:
+      banner_alert:
         title: 'There was a problem!'
         text: 'Please take a moment and review your input and try again.'
       section_article:
         link: '/test/link'
-        image: ''
+        image: '//cdn.example.com/image.png'
         title: 'New Article'
         text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
       section_cart:
@@ -48,7 +42,7 @@ pages:
       section_contact:
         link: ''
         btn: 'Send Email'
-      section_hero:
+      feature_hero:
         title: 'Welcome To Our Site'
         text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
         link: ''
@@ -61,13 +55,13 @@ pages:
         link: '#'
       section_mobile:
         image: 'https://s3.amazonaws.com/gitframe/default-portrait.png'
-      section_notice:
+      banner_notice:
         title: 'There was a problem!'
         text: 'Please take a moment and review your input and try again.'
-      section_pager:
+      banner_pager:
         link_last: '#'
         link_next: '#'
-      section_pagination: default
+      banner_pagination: default
       section_pricing: 
         title: 'Basic Plan'
         link: '#'
@@ -76,7 +70,7 @@ pages:
         price: '$25'
         text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
         link: '#'
-      section_progress:
+      banner_progress:
         completed: 70
       section_register:
         link: '#'
@@ -85,18 +79,18 @@ pages:
         image: 'https://s3.amazonaws.com/gitframe/default-square-small.png'
         title: 'A New Search Result'
         text: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
-      section_search:
+      banner_search:
         link: '#'
         btn: 'Find'
       section_slider: 
         image_one: 'https://s3.amazonaws.com/gitframe/default-rectangle.png'
         image_two: 'https://s3.amazonaws.com/gitframe/default-rectangle.png'
         image_three: 'https://s3.amazonaws.com/gitframe/default-rectangle.png'
-      section_social:
+      banner_social:
         facebook: ''
         twitter: ''
         google: ''
-      section_success:
+      banner_success:
         title: 'There was a problem!'
         text: 'Please take a moment and review your input and try again.'
       section_tablet:
