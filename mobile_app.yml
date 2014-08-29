@@ -15,8 +15,6 @@ pages:
       banner_title:
         title: 'Super Awesome Features'
       feature_mobile_4:
-        image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/bia_camera.jpg'
-      feature_mobile_4:
         image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/bia_photos.jpg'
       feature_mobile_4:
         image: 'https://s3.amazonaws.com/gitframe/examples/mobile-app-landing/bia_calendar.jpg'
