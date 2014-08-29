@@ -23,7 +23,7 @@ pages:
         second_page: 'Our Second Page'
 
   - 
-    name: "Content"
+    name: "Banners Features And Sections"
     sections:
       banner_alert:
         title: 'There was a problem!'
